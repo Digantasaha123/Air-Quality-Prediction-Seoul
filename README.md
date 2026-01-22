@@ -1,7 +1,7 @@
 # Spatio-Temporal Air Quality Prediction Using Spectral GCN and LSTM
 
 ##  Project Overview
-This project implements a novel Deep Learning framework to forecast air quality (PM2.5 and NO2) in Seoul, South Korea. It addresses the limitations of traditional models by integrating a **Second-Order Spectral Graph Convolutional Network (GCN)** with an **Attention-based LSTM**.
+This project implements a novel Deep Learning framework to forecast air quality (PM2.5, PM10, CO, SO2, O3 and NO2) in Seoul, South Korea. It addresses the limitations of traditional models by integrating a **Second-Order Spectral Graph Convolutional Network (GCN)** with an **Attention-based LSTM**.
 
 The model effectively captures:
 - **Spatial Dependencies:** Using graph topology of monitoring stations.
